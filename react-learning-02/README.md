@@ -1,0 +1,1 @@
+In this module i understand how react + vite file structure work and what files are required and not now i am able to edit react project file structure and write code confidently 
